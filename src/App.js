@@ -1,6 +1,5 @@
-
+import './App.css'
 import Profile from './portfolioContainer/Home/Profile.js';
-
 function App() {
   return (
     <div className="App">
